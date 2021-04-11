@@ -1,1 +1,2 @@
-# your code here
+myVar = "Yellow"
+print(myVar)
